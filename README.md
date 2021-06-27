@@ -4,9 +4,9 @@ This is a repository containing code used in explaining the article [https://has
 To use the code, simple do the following.
 
 ```bash
-git clone git
-cd encryptedjwt
+git clone https://github.com/teezzan/encyrpted-jwt-article
+cd encyrpted-jwt-article
 npm install
 npm index.js
-
 ```
+Have fun!!!
